@@ -1,5 +1,4 @@
 clear all, close all,clc;
-%% Import data
 %% Import data from spreadsheet
 % Script for importing data from the following spreadsheet:
 %
